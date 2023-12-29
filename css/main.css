@@ -592,7 +592,7 @@ body {
   width: 30vmin;
   height: 50vmin;
   border-top-left-radius: 100%;
-  border-left: 2vmin solid #079097;
+  border-left: 2vmin solid #ff00ae;
   background-image: linear-gradient(to bottom, transparent, var(--dark-color) 60%);
   -webkit-mask-image: linear-gradient(to top, transparent 30%, #079097 60%);
 }
